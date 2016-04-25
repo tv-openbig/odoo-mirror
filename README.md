@@ -1,0 +1,2 @@
+# odoo-mirror
+Mirrored Odoo
